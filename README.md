@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Network Engineer from Sri Lanka</h3>
 
 <p align ="center"> 
-<img style="float: center"  alt="drawing" src="AI chamz.webp"  width="850px" height=450px">
+<img style="float: center"  alt="drawing" src="Navod Image.webp"   height=450px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navodvimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="navodvimukthi" /> </p>
