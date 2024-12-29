@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navodvimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="navodvimukthi" /> </p>
 
-- 🔭 I’m currently working on **Hayleys Fentos**
+- 🔭 I’m currently working on **Hayleys Fentons**
 
 - 🌱 I’m currently learning **Networking**
 
